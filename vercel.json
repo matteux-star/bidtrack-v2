@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd mosaic-next/mosaic-next && npm install && npm run build",
+  "devCommand": "cd mosaic-next/mosaic-next && npm run dev",
+  "installCommand": "cd mosaic-next/mosaic-next && npm install"
+}

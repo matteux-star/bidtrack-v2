@@ -1,0 +1,10 @@
+{
+  "name": "bidtrack",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix mosaic-next/mosaic-next run dev",
+    "build": "npm --prefix mosaic-next/mosaic-next run build",
+    "start": "npm --prefix mosaic-next/mosaic-next run start"
+  }
+}
